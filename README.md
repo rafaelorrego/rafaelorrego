@@ -1,4 +1,4 @@
-# ¡Hola! 👋Soy **Rafael Orrego **
+# ¡Hola! 👋Soy Rafael Orrego 
 
 <div align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding" width="400"/>
@@ -13,7 +13,7 @@ Soy un **Desarrollador Junior** apasionado por la tecnología y el aprendizaje c
 <table>
   <tr>
     <td><b>Frontend</b></td>
-    <td>React, HTML, CSS, JavaScript</td>
+    <td>React, HTML, CSS, JavaScript, Tailwind CSS </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
