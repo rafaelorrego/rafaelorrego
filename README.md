@@ -6,7 +6,7 @@
 
 <br>
 
-Soy un **Desarrollador Junior** apasionado por la tecnología y el aprendizaje continuo. Disfruto creando soluciones usando herramientas modernas como **React**, **Node.js** y **MongoDB**.
+Soy un **Desarrollador Junior** apasionado por la tecnología y el aprendizaje continuo. Disfruto creando soluciones usando herramientas  como **React**, **Node.js** y **MongoDB**.
 
 ## 🚀 Habilidades
 
