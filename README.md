@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy **Rafael Orrego**
+# ¡Hola! 👋Soy **Rafael Orrego **
 
 <div align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding" width="400"/>
@@ -41,7 +41,7 @@ Estoy profundizando mis conocimientos en desarrollo full-stack y explorando nuev
 ## 💻 Proyectos Destacados
 
 - **VareApp:** Aplicación web para la gestión de productos y servicios.
-- **[Nombre del Proyecto 2]:** Breve descripción del proyecto.
+- ** [Monchi]:** creo en breve.
 
 ---
 
